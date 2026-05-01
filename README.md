@@ -1,16 +1,19 @@
-## Hi there 👋
+# Howdy 🤠
 
-<!--
-**clean-fog7852/clean-fog7852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **clean-fog7852**, a computer science student.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Lifelong learner
+- 🤔 Exploring new technologies
+- 📚 Reading the source is the best documentation
+- 🌱 Always learning new things
+- 🛠️ Build small, ship often
+
+## Tech
+
+`SQLite` `Axum` `GraphQL` `Nim` `Astro` `Deno`
+
+---
+
+_Love a good makefile._
